@@ -6,8 +6,10 @@ Datasets
 The analysis is based on two primary datasets:
 
 Cyber Security Salaries: Contains information about salaries in the field of Cyber Security across various countries, company sizes, and experience levels.
+
 Data Science Salaries: Consists of data regarding salaries in the Data Science domain, detailing similar attributes for comparison.
 Features
+
 The project involves several key components:
 
 Data Cleaning and Preprocessing: Standardizing country names using the pycountry library and filtering the datasets to include only common geographical locations for a fair comparison.
