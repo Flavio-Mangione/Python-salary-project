@@ -11,11 +11,15 @@ Features
 The project involves several key components:
 
 Data Cleaning and Preprocessing: Standardizing country names using the pycountry library and filtering the datasets to include only common geographical locations for a fair comparison.
+
 Descriptive Analysis: Summarizing the key statistics of both datasets.
+
 Salary Comparison: Investigating how salaries vary based on factors like experience level and company size.
+
 Geographical Analysis: Comparing the distribution of salaries across different countries and regions, especially focusing on Europe and the United States.
+
 Remote Work Analysis: Examining the relationship between remote working ratios and salary levels in both fields.
-Visualizations
+
 
 The project utilizes various types of visualizations to present the findings:
 
