@@ -1,4 +1,5 @@
 Project Overview
+
 This project aims to provide a comprehensive analysis of salary trends in two rapidly evolving fields: Cyber Security and Data Science. Utilizing datasets containing salary information from various countries, the analysis explores multiple aspects such as geographical salary distribution, the impact of experience levels and company sizes on salaries, and the correlation between remote work and compensation.
 
 Datasets
@@ -15,6 +16,7 @@ Salary Comparison: Investigating how salaries vary based on factors like experie
 Geographical Analysis: Comparing the distribution of salaries across different countries and regions, especially focusing on Europe and the United States.
 Remote Work Analysis: Examining the relationship between remote working ratios and salary levels in both fields.
 Visualizations
+
 The project utilizes various types of visualizations to present the findings:
 
 Correlation Matrices: To understand the relationships between different numerical variables in the datasets.
@@ -24,5 +26,6 @@ Tools and Libraries Used
 Pandas and Geopandas: For data manipulation and geographical data handling.
 Matplotlib and Seaborn: For creating a wide range of static, animated, and interactive visualizations.
 PyCountry: For country code standardization and conversion.
+
 Conclusions
 This project sheds light on various factors influencing salary structures in Cyber Security and Data Science, providing valuable insights for professionals and stakeholders in these fields.
