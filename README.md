@@ -28,4 +28,5 @@ Matplotlib and Seaborn: For creating a wide range of static, animated, and inter
 PyCountry: For country code standardization and conversion.
 
 Conclusions
+
 This project sheds light on various factors influencing salary structures in Cyber Security and Data Science, providing valuable insights for professionals and stakeholders in these fields.
