@@ -20,11 +20,17 @@ Visualizations
 The project utilizes various types of visualizations to present the findings:
 
 Correlation Matrices: To understand the relationships between different numerical variables in the datasets.
+
 Bar Charts and Boxplots: For comparing average salaries across different categories like experience levels and company sizes.
+
 Geographical Maps: Using Geopandas to visualize the global distribution of employees in both Cyber Security and Data Science fields.
+
 Tools and Libraries Used
+
 Pandas and Geopandas: For data manipulation and geographical data handling.
+
 Matplotlib and Seaborn: For creating a wide range of static, animated, and interactive visualizations.
+
 PyCountry: For country code standardization and conversion.
 
 Conclusions
