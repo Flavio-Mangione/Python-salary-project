@@ -23,7 +23,7 @@ Geographical Analysis: Comparing the distribution of salaries across different c
 Remote Work Analysis: Examining the relationship between remote working ratios and salary levels in both fields.
 
 
-## The project utilizes various types of visualizations to present the findings:
+## The project utilizes various types of graphs to present the findings:
 
 Correlation Matrices: To understand the relationships between different numerical variables in the datasets.
 
@@ -68,7 +68,7 @@ Analisi geografica: confronto della distribuzione degli stipendi tra diversi pae
 Analisi del lavoro a distanza: esame della relazione tra i rapporti di lavoro a distanza e i livelli salariali in entrambi i campi.
 
 
-## Il progetto utilizza vari tipi di visualizzazioni per presentare i risultati:
+## Il progetto utilizza vari tipi di grafici per presentare i risultati:
 
 Matrici di correlazione: comprendere le relazioni tra le diverse variabili numeriche nei set di dati.
 
